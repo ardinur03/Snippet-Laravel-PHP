@@ -3,7 +3,7 @@
   "Make link route": {
     "prefix": "rutget",
     "body": [
-      "$$routes->get('${1}', '${1}');"
+      "$$routes->get('${1}', '${2}');"
     ],
     "description": "Make link route"
   }
